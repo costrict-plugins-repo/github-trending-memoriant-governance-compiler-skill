@@ -1,0 +1,15 @@
+{
+  "name": "memoriant-governance-compiler-skill",
+  "version": "1.0.0",
+  "description": "Transform natural-language policy documents into executable governance graphs. Compile Markdown policies into DAGs, detect conflicts, trace compliance paths, and generate audit evidence. 5 skills + 2 specialized agents.",
+  "author": {
+    "name": "Nathan Maine",
+    "url": "https://github.com/NathanMaine"
+  },
+  "homepage": "https://github.com/NathanMaine/governance-graph-compiler",
+  "repository": "https://github.com/NathanMaine/memoriant-governance-compiler-skill",
+  "license": "MIT",
+  "keywords": ["governance", "policy", "dag", "compliance", "audit", "graph", "ai-agents", "policy-enforcement", "memoriant"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

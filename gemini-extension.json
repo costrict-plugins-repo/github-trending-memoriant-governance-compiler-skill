@@ -1,0 +1,27 @@
+{
+  "name": "memoriant-governance-compiler-skill",
+  "description": "Transform natural-language policy documents into executable governance graphs. Compile Markdown policies into DAGs, detect conflicts, trace compliance paths, and generate audit evidence.",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "compile-policy",
+      "path": "skills/compile-policy/SKILL.md"
+    },
+    {
+      "name": "analyze-graph",
+      "path": "skills/analyze-graph/SKILL.md"
+    },
+    {
+      "name": "detect-conflicts",
+      "path": "skills/detect-conflicts/SKILL.md"
+    },
+    {
+      "name": "trace-compliance",
+      "path": "skills/trace-compliance/SKILL.md"
+    },
+    {
+      "name": "generate-audit",
+      "path": "skills/generate-audit/SKILL.md"
+    }
+  ]
+}
